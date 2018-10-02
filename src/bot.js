@@ -4,8 +4,8 @@ let LINE = new line();
 
 
 const auth = {
-	authToken: '',
-	certificate: '',
+	authToken: 'Ex2L3A9cWUodNKqdU0u7.EvEhTRbX2doH0SStwSMDfW.QvAdDi0dx+jgsN1LIlPUyM8ARMnZCgVnaQxJgC5li0c=',
+	certificate: '0be81213559fa9d5a30676e6f6baf1f5a4e10d746663626a5cb95a895185189a',
 	email: '',
 	password: ''
 }
